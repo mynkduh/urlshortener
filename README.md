@@ -1,0 +1,1 @@
+The purpose of this system is to take long URLs (often with UTM parameters used for tracking in marketing campaigns) and create shortened versions that can easily be shared. This architecture will maintain URL integrity, click tracking, and ensure privacy.
